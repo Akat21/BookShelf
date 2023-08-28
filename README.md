@@ -7,4 +7,4 @@ On the backend, we've harnessed the power of cutting-edge technology to ensure t
 
 Our backend architecture is the Java SpringBoot framework. This choice guarantees a seamless flow of data, effortless scalability, and a foundation of rock-solid stability. The SpringBoot framework's elegance harmonizes perfectly with Bookshelf's mission – to provide you with a book collection management experience that is as elegant as it is functional.
 
-Currently not hosted due to cost reasons, but the link to visual presentation here - https://www.youtube.com/watch?v=jZbbG7iGFsI
+Currently not hosted due to cost reasons, but the link to visual presentation is available here - https://www.youtube.com/watch?v=jZbbG7iGFsI
